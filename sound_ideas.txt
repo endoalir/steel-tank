@@ -1,0 +1,11 @@
+fire sound: 
+drum 88
+cutoff = 270
+resonance = 90
+G#
+
+explosion:
+drum 34
+cutoff = 190
+rosonance = 170
+low d + b flat

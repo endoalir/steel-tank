@@ -1,0 +1,13 @@
+﻿Build started 10/1/2011 11:56:06 PM.
+     1>Project "C:\Users\Jason\Documents\projects\steel_tank\map_editor\map_editor.vcxproj" on node 3 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Release\map_editor.unsuccessfulbuild".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\map_editor.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+     1>c:\users\jason\documents\projects\steel_tank\map_editor\stdafx.h(25): fatal error C1083: Cannot open include file: 'boost/lexical_cast.hpp': No such file or directory
+     1>Done Building Project "C:\Users\Jason\Documents\projects\steel_tank\map_editor\map_editor.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.68

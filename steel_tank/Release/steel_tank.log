@@ -1,0 +1,40 @@
+﻿Build started 10/9/2011 11:25:58 AM.
+     1>Project "C:\Users\Jason\Documents\projects\steel_tank\steel_tank\steel_tank.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\steel_tank.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\steel_tank.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt game_sequence.cpp
+         game_sequence.cpp
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Jason\Documents\projects\steel_tank\steel_tank\Release\steel_tank.exe" /INCREMENTAL:NO /NOLOGO bass.lib dinput8.lib dxguid.lib comctl32.lib Irrlicht.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\steel_tank.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Jason\Documents\projects\steel_tank\steel_tank\Release\steel_tank.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Jason\Documents\projects\steel_tank\steel_tank\Release\steel_tank.lib" /MACHINE:X86 Release\steel_tank.res
+         Release\sqlite3.obj
+         Release\camera.obj
+         Release\camera_set.obj
+         Release\creature.obj
+         Release\engine.obj
+         Release\game_data.obj
+         Release\game_sequence.obj
+         Release\input_control.obj
+         Release\joystick.obj
+         Release\sound.obj
+         Release\stdafx.obj
+         Release\steel_tank.obj
+         Release\window_messages.obj
+         Release\world_map.obj
+         Generating code
+         Finished generating code
+         steel_tank.vcxproj -> C:\Users\Jason\Documents\projects\steel_tank\steel_tank\Release\steel_tank.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Jason\Documents\projects\steel_tank\steel_tank\Release\steel_tank.exe;#1" /manifest Release\steel_tank.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\steel_tank.unsuccessfulbuild".
+         Touching "Release\steel_tank.lastbuildstate".
+     1>Done Building Project "C:\Users\Jason\Documents\projects\steel_tank\steel_tank\steel_tank.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:25.53

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "steel_tank", "steel_tank.vcxproj", "{4431B2D6-C855-4247-BC07-9AEC6346A6AF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "map_editor", "..\map_editor\map_editor.vcxproj", "{0C843E28-0BAC-4055-8E8C-C923B9FA849F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4431B2D6-C855-4247-BC07-9AEC6346A6AF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4431B2D6-C855-4247-BC07-9AEC6346A6AF}.Debug|Win32.Build.0 = Debug|Win32
+		{4431B2D6-C855-4247-BC07-9AEC6346A6AF}.Release|Win32.ActiveCfg = Release|Win32
+		{4431B2D6-C855-4247-BC07-9AEC6346A6AF}.Release|Win32.Build.0 = Release|Win32
+		{0C843E28-0BAC-4055-8E8C-C923B9FA849F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0C843E28-0BAC-4055-8E8C-C923B9FA849F}.Debug|Win32.Build.0 = Debug|Win32
+		{0C843E28-0BAC-4055-8E8C-C923B9FA849F}.Release|Win32.ActiveCfg = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

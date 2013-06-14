@@ -1,0 +1,19 @@
+﻿Build started 10/9/2011 1:47:25 PM.
+     1>Project "C:\Users\Jason\Documents\projects\steel_tank\map_editor\map_editor.vcxproj" on node 2 (ClCompile target(s)).
+     1>ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\map_editor.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt game_data.cpp
+         game_data.cpp
+     1>c:\users\jason\documents\projects\steel_tank\map_editor\game_data.cpp(254): error C2039: 'map_objects' : is not a member of 'map_data'
+                 c:\users\jason\documents\projects\steel_tank\map_editor\game_data.h(73) : see declaration of 'map_data'
+     1>c:\users\jason\documents\projects\steel_tank\map_editor\game_data.cpp(254): error C2228: left of '.begin' must have class/struct/union
+     1>c:\users\jason\documents\projects\steel_tank\map_editor\game_data.cpp(254): error C2039: 'map_objects' : is not a member of 'map_data'
+                 c:\users\jason\documents\projects\steel_tank\map_editor\game_data.h(73) : see declaration of 'map_data'
+     1>c:\users\jason\documents\projects\steel_tank\map_editor\game_data.cpp(254): error C2228: left of '.end' must have class/struct/union
+     1>c:\users\jason\documents\projects\steel_tank\map_editor\game_data.cpp(270): error C2039: 'map_objects' : is not a member of 'map_data'
+                 c:\users\jason\documents\projects\steel_tank\map_editor\game_data.h(73) : see declaration of 'map_data'
+     1>c:\users\jason\documents\projects\steel_tank\map_editor\game_data.cpp(270): error C2228: left of '.erase' must have class/struct/union
+     1>Done Building Project "C:\Users\Jason\Documents\projects\steel_tank\map_editor\map_editor.vcxproj" (ClCompile target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.23
